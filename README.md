@@ -1,16 +1,17 @@
 # Hacking_Injustice
 
  - Core Team Contact Info:
-| Team Member | Role             |
-|-------------|------------------|
-| Saman       | Lead  |
-| Elizabeth   | Comms |
-| Jason       | Tech |
-| Alina       | |
-| Namirah     | |
-| Hannah      | |
-| Peggy       | |
-| Pranjal     | |
+
+| Team Member Name | Role Title |
+| :--- | :----: |
+| Saman | Role |
+| Elizabeth | Comms |
+| Jason | Tech |
+| Alina | Role |
+| Namirah | Role |
+| Hannah | Role |
+| Peggy | Role |
+| Pranjal | Role |
 
 
 - Team Timelines:
