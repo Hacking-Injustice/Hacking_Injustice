@@ -4,14 +4,14 @@
 
 | Team Member Name | Role Title |
 | :--- | :----: |
-| Saman | Role |
+| Saman | Partnerships |
 | Elizabeth | Comms |
 | Jason | Tech |
-| Alina | Role |
-| Namirah | Role |
-| Hannah | Role |
-| Peggy | Role |
-| Pranjal | Role |
+| Ayah | Outreach |
+| Namirah | Fundraising |
+| Beamlak | Research |
+| Peggy | Advisor |
+| Aida | Advisor |
 
 
 - Team Timelines:
